@@ -69,9 +69,7 @@
 
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
-<!-- <a href="#" target="_blank">
-  <img src="svg/trungquandev-quotes.svg" width="846" height="150" alt="" />
-</a> -->
-<div align="right">
-  ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=default&animation=default&layout=default&font=default&fontColor=skyblue&bgColor=black)
-</div>
+<a href="#" target="_blank">
+  <img src="svg/thieuphong-quotes.svg" width="846" height="150" alt="" />
+</a>
+

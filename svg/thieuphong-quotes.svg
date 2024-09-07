@@ -22,15 +22,14 @@
         .quotes-vi {
           font-size: 18px;
         }
-        .trungquandev-signature {
+        .thieuphong-signature {
           font-size: 16px;
         }
 			</style>
 
 			<div class="container">
-        <div class="quotes-eng">"Learning new everyday not the copy cat of yesterday!"</div>
-        <div class="quotes-vi">"Qua một ngày, chúng ta học thêm được gì mới? Hay vẫn là một bản sao của ngày hôm qua?"</div>
-        <div class="trungquandev-signature">- Trungquandev Một lập trình viên -</div>
+        <div class="quotes-eng">"I'm not a great programmer. I'm just a good programmer with great habits." </div>
+        <div class="thieuphong-signature">- Kent Beck -</div>
       </div>
 		</div>
 	</foreignObject>
